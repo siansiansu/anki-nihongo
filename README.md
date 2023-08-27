@@ -1,2 +1,3 @@
 # anki-nihongo
-My Anki Flashcards to Learn Japanese 
+
+My Anki flashcards to learn Japanese.
