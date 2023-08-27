@@ -1,0 +1,238 @@
+#separator:tab
+#html:true
+#tags column:5
+さむい (寒い)	samui	"
+
+cold (e.g. weather)
+"	寒い冬には、温かい鍋料理 を家族で食べることが多い。<div><br></div><div>恐ろしく今日は寒い。</div>	common n5
+えき (駅)	eki	train station​		common n5
+ホテル	hoteru	hotel		common
+みず (水)	mizu	water		common n5
+コーヒー (珈琲)	ko-hi-	coffee		common n5
+カメラ	kamera	camera		common n5
+いち (一)	ichi	one		common n5
+ねる (寝る)	neru	to sleep (lying down)​		common n5
+はじまる (始まる)	hajimaru	start		common n5
+しずか (静か)	shizuka	quiet		common n5
+やすい (安い)	yasui	cheap<div>inexpensive</div>		common n5
+さかな (魚)	sakana	fish		common n5
+ぶたにく (豚肉)	buta niku	pork		common n5
+にく (肉)	niku	meat		common n5
+ぎゅうにく (牛肉)	gyū niku	beef		common n5
+とりにく (鶏肉)	toriniku	chicken meat		common n5
+やさい (野菜)	yasai	vegetable		common n5
+にほんご (日本語)	ni hon go	Japanese (language)		common
+に (二)	ni	two		common n5
+さん (三)	san	three		common n5
+あに (兄)	ani	"
+
+
+older brother; elder brother​
+
+"		common n5
+あね (姉)	a ne	"
+
+
+older sister; elder sister​
+
+"		common n5
+おさけ (お酒)	o sake	wine		common n5
+せんせい (先生)	sennsei	teacher; instructor; master		common n5
+パン	pan	bread		common n5
+くだもの (果物)	kudamono	fruit		common n5
+みせ (店)	mise	store; shop; establishment; restaurant		common n5
+みち (道)	michi	road		common n5
+ハウス	hausu	house		common n5
+アパート	apa-to	"
+
+apartment building; apartment block; apartment house
+"		common n5
+トイレ	toire	toilet		common n5
+しょうゆ (醤油)	shōyu	soy source		common n5
+ぎゅうにゅう (牛乳)	gyūnyū	(cow's) milk		common n5
+れい (零)	rei	zero		common n5
+ねこ (猫)	neko	cat (esp. the domestic cat, Felis catus)		common n5
+いぬ (犬)	inu	dog		common n5
+うま (馬)	uma	horse		common n3
+かわいい (可愛い)	kawaī	cute		common n5
+いそがしい (忙しい)	isogashī	busy		common n5
+あさ (朝)	asa	morning		common n5
+あつい (暑い)	atsui	hot; warm; sultry; heated		common n5
+はなび (花火)	Hana bi	fireworks		common n2
+あこがれる (憧れる)	akogareru	to admire		common n2
+かんじょう (感情)	kanjō	emotion; feeling; feelings; sentiment		common n3
+ありがとう (有難う)	arigatō	Thank you		common n3
+りょうり (料理)	ryōri	cooking; cookery; cuisine; meal; food; dish; item on a menu<br>		common n5
+かれ (彼)	kare	he; him&nbsp;		common n4
+ほたる (蛍)	hotaru	firefly		common
+きみ (君)	kimi	you	君は僕の邪魔をしている。	common n4
+せみ (蝉)	semi	cicada		common
+じてんしゃ (自転車)	jiten sha	bicycle		common n5
+おみやげ (お土産)	omiyage	souvenir		common n4
+お元気ですか (おげんきですか)	o genkidesu ka	How are you?	こんにちは、お元気ですか。	phrase
+如何致しまして (どういたしまして)	dōitashimashite	You’re welcome		phrase
+わかりません	wakari masen	I don’t know		phrase
+おやすみなさい (お休みなさい)	oyasuminasai	good night		common
+おはようございます (お早うございます)	ohayōgozaimasu	good morning		phrase
+こんにちは (今日は)	kon''nichiwa	hello; good day; good afternoon		common n3
+もちろん (勿論)	mochiron	"
+
+
+of course; certainly; naturally​
+
+"		common n3
+どうぞ	dōzo	please		common n5
+あう (会う)	au	to meet; to encounter; to see​		common n5
+あお (青)	ao	"
+
+
+blue; azure​
+
+"		common n5
+くろい (黒い)	kuroi	black		common n5
+こんばん (今晩)	Kon ban	tonight		common n5
+はじめ (始め)	hajime	beginning		common n5
+すみません (済みません)	sumimasen	"
+
+excuse me; pardon me; I'm sorry; I beg your pardon
+"		common n3
+どこ	doko	where; what place		common n5
+ぼくたち (僕達)	boku-tachi	we		common
+コンビニ	konbini	convenience store		common
+がくせい (学生)	gaku sei	student		common n5
+ただいま (只今)	tadaima	I’m home		common
+じゅうにん (住人)	jū ni n	resident		common
+つく (着く)	tsuku	arrive at		common n5
+はじめまして (初めまして)	hajimemashite	nice to meet you; I'm glad to make your acquaintance; how do you do?​		common n2
+かいしゃいん (会社員)	kaisha in	Company employee		common
+きょうし (教師)	kyōshi	teacher (classroom)		common n3
+いえ (家)	ie	house; residence; dwelling		common n5
+とおい (遠い)	to oi	far		common n5
+なつ (夏)	natsu	summer		common n5
+しょくどう (食堂)	shoku dō	dining room		common n5
+あらう (洗う)	arau	to wash		common n5
+バンド	bando	band		n2
+せいざ (星座)	se iza	constellation		n1
+うなぎ (鰻)	unagi	eel		common
+ゆうびんきょく (郵便局)	yū bin kyoku	post office		common n5
+きんし (禁止)	kin shi	prohibition; inhibition; ban		common n3
+がっこう (学校)	ga~tsu kō	school		common n5
+たいふう (台風)	tai-fū	typhoon; hurricane​ &nbsp;		common n4
+だいがく (大学)	dai gaku	post-secondary education institution, incl. university, college, etc.		common n5
+おやすみ (お休み)	oyasumi	Good night		common n2
+うみ (海)	umi	&nbsp;sea; ocean; waters​ &nbsp;		common n5
+だが	daga	but; however; (and) yet; nevertheless; still; for all that​ &nbsp;		common n3
+さいかい (再会)	sai kai	meeting again; reunion​ &nbsp;		common n1
+タカサゴモズ (高砂百舌)	ta kasago mozu	Long-tailed Shrike		bird
+おじろわし / オジロワシ (尾白鷲)	ojiro washi	<div>White-tailed Eagle</div>		bird
+ウミガラス	umi garasu	common murre&nbsp;		bird
+すばらしい (素晴らしい)	subarashī	wonderful; splendid; magnificent		common n3
+霧 (きり)	kiri	fog; mist​; spray		common n3
+まど (窓)	mado	window		common n5
+かぜ (風)	kaze	wind; breeze; draught; draft		common n5
+うた (歌)	uta	song; singing​		common n5
+あたらしい (新しい)	atarashī	new; novel; fresh; recent; latest; up-to-date; modern​ &nbsp;		common n5
+めぐろ (目黒)	meguro	Meguro City&nbsp;		common
+から	kara	from (e.g. time, place, numerical quantity); since​ &nbsp;	それがどこから来たのか分からなかった。	common
+えん (円)	e n	yen (Japanese monetary unit)​ &nbsp;		common n3
+おもい (思い)	omoi	thought		common
+で (出)	de	coming out; going out; outflow; efflux; rising (of the Sun or the Moon)		common
+いろ (色)	iro	colour; color; hue; tint; tinge; shade		common n5
+ほほ (頬)	hoho	cheek (of the face)		common n3
+きもち (気持ち)	ki mochi	feeling; sensation; mood; state of mind		common n4
+あびる (浴びる)	abiru	to dash over oneself (e.g. water); to take (e.g. shower); to bask in (e.g. the sun); to bathe in; to be flooded with (e.g. light); to be covered in​ &nbsp;		common n5
+あぶない (危ない)	abunai	dangerous; risky; hazardous; perilous; precarious​ &nbsp;		common n5
+あちら (彼方)	atchi	that way; that direction; over there; yonder​ &nbsp;		common n5
+あげる (上げる)	ageru	to raise; to elevate​ &nbsp;		common n5
+あか (赤)	aka	red; crimson; scarlet​ &nbsp;		common n5
+べんり (便利)	be nri	convenient; handy; useful​ &nbsp;		common n5
+だいじょうぶ (大丈夫)	daijōbu	safe; secure; sound; problem-free; without fear; all right; alright; OK; okay​ &nbsp;		common n5
+でんき (電気)	den ki	electricity		common n5
+でんわ (電話)	denwa	telephone call; phone call​ &nbsp;		common n5
+えいご (英語)	Ei go	English (language)​ &nbsp;		common n5
+こうえん (公園)	kōen	(public) park​ &nbsp;		common n5
+くすり (薬)	kusuri	medicine; pharmaceuticals; (legal) drugs; pill; ointment; salve​ &nbsp;		common n5
+まち (町)	machi	town; block; neighbourhood; neighborhood&nbsp;		common n5
+もくようび (木曜日)	mo ku yō bi	Thursday&nbsp;		common n5
+しろい (白い)	shiroi	white		common n5
+すいようび (水曜日)	sui yō bi	Wednesday&nbsp;		common n5
+てんき (天気)	tenki	weather&nbsp;		common n5
+うるさい (煩い)	urusai	noisy; loud​ &nbsp;		common n5
+おべんとう (お弁当)	o be ntō	bento; Japanese box lunch​ &nbsp;		common n5
+さんぽ (散歩)	sanpo	walk; stroll​ &nbsp;		common n5
+せんたく (洗濯)	sen Taku	washing; laundry​ &nbsp;		common n5
+じどうしゃ (自動車)	ji dō sha	car; automobile; motorcar; motor vehicle; auto​ &nbsp;		common n5
+じしょ (辞書)	jisho	dictionary; lexicon​ &nbsp;		common n5
+じゅぎょう (授業)	ji ~yugyou	lesson; class; teaching; instruction; classwork; schoolwork​ &nbsp;		common n5
+かさ (傘)	kasa	umbrella; parasol​ &nbsp;		common n5
+かようび (火曜日)	kayō bi	Tuesday&nbsp;		common n5
+きんようび (金曜日)	kin-yō bi	Friday&nbsp;		common n5
+こども (子供)	kodomo	child; children​ &nbsp;		common n5
+こうちゃ (紅茶)	ko ucha	black tea​ &nbsp;		common n5
+おねがい (お願い)	onegai	request; favour (to ask); wish​ &nbsp;	お願いだから泣かないで。	common
+ゆめ (夢)	yume	dream&nbsp;		common n4
+いなか (田舎)	inaka	rural area; countryside; the sticks​ &nbsp;		common n4
+つばさ (翼)	tsubasa	wing		common n3
+でも	demo	but; however; though; nevertheless; still; yet; even so; also; as well		common n5
+だろう	darou	seems; I think; I guess; I wonder; I hope		common
+あかい (赤い)	akai	red; crimson; scarlet; vermilion		common n5
+あかるい (明るい)	akarui	light; well-lit; well-lighted		common n5
+あける (開ける)	akeru	to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock		common n5
+あき (秋)	Aki	autumn; fall	京都は秋がもっとも美しい。	common n5
+あく (開く)	aku	to open (e.g. doors)​ &nbsp;		common n5
+あまい (甘い)	amai	sweet-tasting; sweet; sugary; sugared​ &nbsp;		common n5
+あめ (飴)	ame	(hard) candy; toffee​ &nbsp;		common n5
+あめ (雨)	ame	rain		common n5
+あなた	anata	you&nbsp;		common n5
+あの &nbsp;	ano	say; well; um; er​ &nbsp;		common n5
+あおい (青い)	aoi	blue; azure​ &nbsp;		common n5
+ある	aru	to be; to exist; to live&nbsp;		common n5
+あるく (歩く)	aruku	to walk​ &nbsp;		common n5
+あさごはん (朝ご飯)	asa gohan	breakfast&nbsp;		common n5
+あさって (明後日)	asatte	day after tomorrow​ &nbsp;		common n5
+あし (足)	ashi	foot; paw; arm (of an octopus, squid, etc.)​ &nbsp;		common n5
+あした (明日)	ashita	tomorrow&nbsp;	明日会いましょうか？	common n5
+あそぶ (遊ぶ)	asobu	to play (games, sports); to enjoy oneself; to have a good time​ &nbsp;		common n5
+あそこ	asoko	there; over there; that place; yonder; you-know-where&nbsp;		common n5
+あたま (頭)	a tama	head		common n5
+あったかい (暖かい)	attakai	warm; mild; (pleasantly) hot&nbsp;		common n5
+あと (後)	ato	after&nbsp;		common n3
+あつい (厚い)	atsui	thick; deep; heavy​ &nbsp;		common n5
+あつい (熱い)	atsui	hot (to the touch)&nbsp;		common n5
+ばんごはん (晩ご飯)	ban gohan	dinner; evening meal​ &nbsp;		common n5
+ばんごう (番号)	ban gou	number; series of digits​ &nbsp;		common n5
+バス	basu	bus&nbsp;		common n5
+バター	batā	butter		common n5
+ベッド	beddo	bed		common n5
+べんきょう (勉強)	be n kyō	study		common n5
+ボールペン	bōrupen	ball-point pen		common n5
+ボタン	botan	button (clothing)​		common n5
+ぼうし (帽子)	bōshi	hat; cap		common n5
+ぶんしょう (文章)	bun shou	writing; composition; essay; article; passage; prose; (writing) style		common n5
+ふゆ (冬)	Fuyu	winter&nbsp;	冬は私の一番好きな季節です。	common n5
+じゃま (邪魔)	jama	"hindrance; obstacle; nuisance; disturbance; interruption; interference​;&nbsp;
+
+
+to visit (someone's home)​
+
+"	明日、お邪魔してもかまいませんか。	common n3
+びょういん (病院)	byō in	hospital; clinic; doctor's office; doctor's surgery; infirmary	君が来る前に病院へ行ってきた。	common n5
+びょうき (病気)	byōki	illness (usu. excluding minor ailments, e.g. common cold); disease; sickness	患者はまもなく病気が治るだろう。	common n5
+ちゃいろ (茶色)	cha iro	brown; light brown; tawny	秋には木々の葉は茶色に変わります。	common n5
+ちゃわん (茶碗)	cha wan	rice bowl; tea cup; teacup	テーブルの上に小さな茶碗と卵がある。	common n5
+ちち (父)	chi chi	father	父も父なら、息子も息子。	common n5
+ちがう (違う)	chigau	to differ (from); to be different; to be distinct; to be unlike; to vary; to disagree (with)	君の考えと僕のとまるで違うね。	common n5
+ちいさい (小さい)	chīsai	small; little; tiny	もう少し小さいのはありますか。	common n5
+ちいさな (小さな)	chīsana	small; little; tiny	去年の夏に私が訪れた村は長野県の小さな村だった。	common n5
+ちかい (近い)	chikai	near; close; short (distance)	君の願いは近い将来実現するだろう。	common n5
+ちかてつ (地下鉄)	Chika Tetsu	subway; metro; underground (railway)	一人で地下鉄に乗るのは危ないですか。	common n5
+ちず (地図)	chizu	map; atlas; chart; plan	京都市の地図を持っていますか。	common n5
+ちょっと	chotto	a little; a bit; slightly	この話はちょっと単調だ。	common n5
+ちょうど	chōdo	exactly; precisely; just; right; opportunely; fortunately	君はちょうど宿題を終えたところだ。	common n5
+だいどこ (台所)	dai doko	kitchen	学校から帰るとすぐに、彼女は台所で母親の手伝いを始めた。	common n5
+だいすき (大好き)	daisuki	liking very much; loving (something or someone); adoring; being very fond of	彼女の妹は大好きだが、彼女の弟は好きではない。	common n5
+だんだん	dandan	gradually; by degrees; little by little; more and more; increasingly​	空がだんだん曇ってきた。	common n5
+だれ (誰)	dare	who	誰がこの問題をしらないんだ？	common n5
+だれか (誰か)	dare ka	someone; somebody	君は誰かとここで出会うの。	common n5
+だす (出す)	dasu	to take out; to get out	雨が降り出す前に出発した方がいいだろう。	common n5
+でぐち (出口)	de guchi	exit; gateway; way out	火事の時にはこの出口を使ってください。	common n5
